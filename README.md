@@ -1,2 +1,2 @@
 # Ping-Pong
-Игра пинг-понг написанная на языке Python с помощью графического модуля turtle.
+A ping-pong game is written in Python using the turtle graphics module.
